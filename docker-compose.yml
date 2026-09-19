@@ -1,0 +1,4 @@
+services:
+  reasm:
+    build: .
+    working_dir: /app
